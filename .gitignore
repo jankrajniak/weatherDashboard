@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+server/node_modules/
+client/node_modules
+
+# Transpiled/Compiled distribution files
+server/dist/
+client/dist/
+
+# Other folders
+.DS_store
