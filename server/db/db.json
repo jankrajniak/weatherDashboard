@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"name": "San Diego",
+		"id": "75981e71-9aaf-47a6-98d3-668909167040"
+	},
+	{
+		"name": "Raleigh",
+		"id": "f615994c-442d-4e4e-8b5e-95b9ae319b96"
+	},
+	{
+		"name": "Miami",
+		"id": "d140a60f-dce9-45f9-b2c7-78dd2698bf29"
+	},
+	{
+		"name": "Tampa",
+		"id": "3472a289-6acd-409e-a5a1-6e8c226b81ed"
+	}
+]
