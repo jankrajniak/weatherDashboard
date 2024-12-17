@@ -48,3 +48,12 @@
 
 ## License
 - This project is licensed under the MIT license: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Project submission requirements
+
+Link to repository: https://github.com/jankrajniak/weatherDashboard
+
+Link to deployed application: https://weatherdashboard-d4ja.onrender.com/
+
+Screenshot:
+![alt text](image.png)
